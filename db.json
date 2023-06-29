@@ -12,5 +12,12 @@
   "profile": {
     "name": "typicode"
   }
+  
+  "users": [ { "id" : 1, "username" = "Ram", "roles": [{"erole": "ROLE_ADMIN"}], "status": "ACTIVE"},
+              { "id" : 2, "username" = "Shyam", "roles": [{"erole": "ROLE_ADMIN"}], "status": "ACTIVE"},
+
+
+
 }
+
 
