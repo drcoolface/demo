@@ -1,6 +1,4 @@
 {
-
-  
   "users": [
     {
         "id": 1,
@@ -8,7 +6,7 @@
         "roles": [
             {
                 "erole": "ROLE_ADMIN"
-            },
+            },]
     },
     {
         "id": 2,
@@ -16,7 +14,7 @@
         "roles": [
             {
                 "erole": "ROLE_ADMIN"
-            },
+            },]
     },
     {
         "id": 3,
@@ -24,9 +22,8 @@
         "roles": [
             {
                 "erole": "ROLE_ADMIN"
-            },
+            },]
     },
   ],
-
 }
 
