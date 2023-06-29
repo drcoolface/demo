@@ -2,9 +2,9 @@
     "users": [{
             "id": 1,
             "username": "Ram",
-            "roles": [{
-                "erole": "ROLE_ADMIN"
-            }],
+            "roles": [{"erole": "ROLE_ADMIN"},
+                {"erole": "ROLE_user"},
+            ],
             "status": "ACTIVE"
         },
         {
