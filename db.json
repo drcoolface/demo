@@ -1,29 +1,6 @@
 {
-  "users": [
-    {
-        "id": 1,
-        "username": "ram",
-        "roles": [
-            {
-                "erole": "ROLE_ADMIN"
-            },]
-    },
-    {
-        "id": 2,
-        "username": "shyam",
-        "roles": [
-            {
-                "erole": "ROLE_ADMIN"
-            },]
-    },
-    {
-        "id": 3,
-        "username": "hari",
-        "roles": [
-            {
-                "erole": "ROLE_ADMIN"
-            },]
-    },
-  ],
+  "users": [ { "id" : 1, "username" = "Ram", "roles": [{"erole": "ROLE_ADMIN"}], "status": "ACTIVE"},
+              { "id" : 2, "username" = "Shyam", "roles": [{"erole": "ROLE_ADMIN"}], "status": "ACTIVE"},
+
 }
 
